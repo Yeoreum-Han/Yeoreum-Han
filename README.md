@@ -1,8 +1,10 @@
 <div align='center'>
   
 ### ☀️ Yeoreum Han   
-1996.08.02  
-yrh.summer@gmail.com  
+🍰 1996.08.02  
+✉️ yrh.summer@gmail.com  
+💻 2023.01 - 07  [Fullstack Course]  
+~
 <br/>
 ### 📚 What I've used
 #### *Front-end*
